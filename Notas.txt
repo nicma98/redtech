@@ -1,0 +1,12 @@
+Wordpress = {adminUser,redtech$2020}
+cPanel = {qf6rxr2iq3oq,Redtech2019$}
+mailChip = {email,Redtech2020$}
+phpMyAdmin = {
+	usuario: wp_admin,
+	password: 1233500046M$adc,
+	db: db_wordpress_redtechw
+}
+WordpressDev = {admin,admin}
+Referentes = {
+	https://xstemla.com/
+}
