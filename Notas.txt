@@ -7,6 +7,7 @@ phpMyAdmin = {
 	db: db_wordpress_redtechw
 }
 WordpressDev = {admin,admin}
-Referentes = {
-	https://xstemla.com/
+Godaddy = {
+	usuario: 107464603
+	clave: niquelado1#
 }
